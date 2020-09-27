@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/scottdorman/scottdorman/master/img/gh-header-image.png" alt="Scott Dorman - Microsoft MVP, Software Architect, Developer, Author, Speaker">
-<h4 align="center">I've been involved with computers in one way or another for as long as I can remember, but started professionally in 1993. Although my primary focus right now is commercial software applications, I prefer building infrastructure components, reusable shared libraries and helping companies define, develop and automate process and code standards and guidelines.</h4>
+<p align="center"><small><b>I've been involved with computers in one way or another for as long as I can remember, but started professionally in 1993. Although my primary focus right now is commercial software applications, I prefer building infrastructure components, reusable shared libraries and helping companies define, develop and automate process and code standards and guidelines.</b></small></p>
 
 <h1 align="center">
 <a href="https://marketplace.visualstudio.com/publishers/ScottDorman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg" alt="1559" height="26" width="26" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
