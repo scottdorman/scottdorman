@@ -30,5 +30,5 @@
 
 <a href="https://www.buymeacoffee.com/scottdorman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" height="40px" width="177px" ></a>
 
-[![GitHub Sponsor](https://img.shields.io/badge/-Sponsor%20me%20on%20GitHub-informational?style=for-the-badge&logoColor=fafbfc&labelColor=ea4aaa)](https://github.com/sponsors/scottdorman)
+[![GitHub Sponsor](https://img.shields.io/badge/-Sponsor%20me%20on%20GitHub-informational?style=for-the-badge&color=fafbfc)](https://github.com/sponsors/scottdorman)
 
