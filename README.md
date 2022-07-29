@@ -9,7 +9,7 @@
 </p>
 
 <br/>
-<p align="center"><small>I've been involved with computers in one way or another for as long as I can remember, but started professionally in 1993. Although my primary focus right now is commercial software applications, I prefer building infrastructure components, reusable shared libraries and helping companies define, develop and automate process and code standards and guidelines.</small></p>
+<p align="center"><small>I've worked with computers professionally since 1993. Although my primary focus is commercial software applications, I enjoy building infrastructure components and reusable shared libraries. I help companies define, develop, and automate processes, code standards, and guidelines.</small></p>
 <br/>
 <p align="center">
 <a href="http://stackexchange.com/users/1175/scott-dorman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackexchange.svg" alt="1559" height="26" width="26" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
